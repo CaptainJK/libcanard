@@ -43,6 +43,7 @@ cmake-build-*/
 .cproject
 .pydevproject
 .gdbinit
+.vscode
 
 # Generated files
 dsdlc_generated/
